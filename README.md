@@ -4,7 +4,7 @@
 CPU and GPU info:
 
 | CPU Model | CPU Name | GPU | Device |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | msm8974 | Snapdragon 800 | Adreno 330 | Nexus 5 |
 | msm8994  | Snapdragon 810 | Adreno 430 | Nexus 6P |
 | msm8996 | Snapdragon 820 | Adreno 530 | Galaxy S7 |
