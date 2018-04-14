@@ -1,0 +1,12 @@
+libCB.so
+libbacktrace.so
+libbase.so
+libc++.so
+libcutils.so
+libgsl.so
+libllvm-qcom.so
+liblzma.so
+libq3dtools_adreno.so
+libunwind.so
+libutils.so
+libvndksupport.so
